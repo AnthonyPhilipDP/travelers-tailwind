@@ -9,4 +9,4 @@ A **Genshin Impact-themed landing page** built entirely with **TailwindCSS**! Th
 - **Fast & Lightweight** – Minimal dependencies ensure smooth performance.
 
 ## 🚀 Live Preview
-[Demo Link](#) https://anthonyphilipdp.github.io/travelers-tailwind/
+https://anthonyphilipdp.github.io/travelers-tailwind/
